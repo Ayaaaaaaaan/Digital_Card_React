@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Digital_Card_React/static/css/main.00af3644.css",
+    "main.js": "/Digital_Card_React/static/js/main.0e0f4a52.js",
+    "static/media/AyaanImg.jpg": "/Digital_Card_React/static/media/AyaanImg.af86446c522f80dc6df9.jpg",
+    "index.html": "/Digital_Card_React/index.html",
+    "main.00af3644.css.map": "/Digital_Card_React/static/css/main.00af3644.css.map",
+    "main.0e0f4a52.js.map": "/Digital_Card_React/static/js/main.0e0f4a52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00af3644.css",
+    "static/js/main.0e0f4a52.js"
+  ]
+}
